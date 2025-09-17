@@ -16,10 +16,10 @@ input
 {
     width: 100%;
     text-align: center;
-    color: rgb(0, 255, 64);
+    color: rgb(46, 205, 233);
     font-family: 'Courier New', Courier, monospace;
     background-color: black;
-    font-size: large;
+    font-size: 50px;
 }
 button
 {
@@ -28,7 +28,7 @@ button
     color: rgb(0, 255, 64);
     font-family: 'Courier New', Courier, monospace;
     background-color: rgb(19, 19, 19);
-    font-size: large;
+    font-size: 80px;
 }
 .footer{
     position: fixed;
